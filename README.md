@@ -4,4 +4,4 @@ Les mécanismes sont quasi identiques à ceux du jeu original.
 
 Plongez dans l'univers créatif de Mateusz Skutnik : https://www.mateuszskutnik.com/games/
 
-![image](https://github.com/HyenaWave/SubMC/assets/71622536/1461f394-0a2a-481f-b69d-7326b8d1e0c7)
+![image](https://github.com/HyenaWave/SubMC/assets/71622536/5df22e7e-ca02-4d73-be60-a01ab5c6dc56)
