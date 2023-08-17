@@ -1,11 +1,12 @@
-# SubMC
-Découvrez SubMC 1, une recréation inspirée du jeu 'Submachine 1 : The Basement' imaginé par Mateusz Skutnik.
-Les mécanismes sont quasi identiques à ceux du jeu original. Map en 1.18.2, aucun texture pack ni optifine de requis.
-
-Français disponible V1.0.0 / English available V1.0.0
-https://github.com/HyenaWave/SubMC/releases/tag/V1.0.0
-
+# ⚙SubMC
+Découvrez SubMC 1, une recréation inspirée du jeu 'Submachine 1 : The Basement' imaginé par Mateusz Skutnik.  
+Les mécanismes sont quasi identiques à ceux du jeu original. Map en 1.18.2, aucun texture pack ni optifine de requis.  
 Plongez dans l'univers créatif de Mateusz Skutnik : https://www.mateuszskutnik.com/games/
+
+## 💾Play
+Français / English [V1.0.0](https://github.com/HyenaWave/SubMC/releases/tag/V1.0.0)
+
+
 
 
 ![image](https://github.com/HyenaWave/SubMC/assets/71622536/11bad1bf-7adc-48a1-be04-f20b176c4d0d)
