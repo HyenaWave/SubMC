@@ -1,5 +1,5 @@
 # SubMC
-Découvrez SubMC 1, une recréation inspirée du jeu 'Submachine' imaginé par Mateusz Skutnik.
+Découvrez SubMC 1, une recréation inspirée du jeu 'Submachine 1 : The Basement' imaginé par Mateusz Skutnik.
 Les mécanismes sont quasi identiques à ceux du jeu original. Map en 1.18.2, aucun texture pack ni optifine de requis.
 
 Plongez dans l'univers créatif de Mateusz Skutnik : https://www.mateuszskutnik.com/games/
