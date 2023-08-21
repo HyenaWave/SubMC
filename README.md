@@ -5,8 +5,7 @@ Les mécanismes sont quasi identiques à ceux du jeu original. Map en 1.18.2, au
 Plongez dans l'univers créatif de Mateusz Skutnik : https://www.mateuszskutnik.com/games/
 
 ## 💾Play
-[https://i.imgur.com/OazURTO.png](https://github.com/HyenaWave/SubMC/releases/tag/V1.0.0)
-
+[![SubMC1](https://i.imgur.com/OazURTO.png)](https://github.com/HyenaWave/SubMC/releases/tag/V1.0.0)
 
 
 
