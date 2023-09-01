@@ -6,7 +6,6 @@ Plongez dans l'univers créatif de Mateusz Skutnik : https://www.mateuszskutnik.
 
 
 ## 💾Play
-### [![SubMC1](https://i.imgur.com/OazURTO.png)](https://github.com/HyenaWave/SubMC/releases/tag/V1.0.0)
-![image](https://github.com/HyenaWave/SubMC/assets/71622536/11bad1bf-7adc-48a1-be04-f20b176c4d0d)
+### [![SubMC-1](https://i.imgur.com/Z7qWyA7.png)](https://github.com/HyenaWave/SubMC/blob/SubMC/SubMC%201)
 ##
-### [![SubMCFLF](https://i.imgur.com/OazURTO.png)](https://github.com/HyenaWave/SubMC/releases/tag/V1.0.0)
+### [![SubMCFLF](https://i.imgur.com/pgzIjEF.png)](https://github.com/HyenaWave/SubMC/releases/tag/V1.0.0)
