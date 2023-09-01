@@ -1,1 +1,0 @@
-![SubMC1](https://i.imgur.com/Z7qWyA7.png)
